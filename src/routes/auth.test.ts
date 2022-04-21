@@ -96,7 +96,7 @@ describe('Testing [users] routes', () => {
   })
 
   describe('[POST] /logout', function () {
-    it('sets the cookie to null', async () => {
+    it('sets the cookie to null when user lots out', async () => {
       const loginResponse = await request(app).post('/login').send({
         email: 'example1@email.com',
         password: 'password',
