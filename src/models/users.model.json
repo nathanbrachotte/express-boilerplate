@@ -1,0 +1,18 @@
+{
+  "0": {
+    "email": "example1@email.com",
+    "password": "$2b$10$/ad66sHsyzXuJ/mhS4P6BuQ1DpcaGNSCeb4NpnGRxyc5EQw2PbnfS"
+  },
+  "2": {
+    "email": "example3@email.com",
+    "password": "$2b$10$/ad66sHsyzXuJ/mhS4P6BuQ1DpcaGNSCeb4NpnGRxyc5EQw2PbnfS"
+  },
+  "3": {
+    "email": "newnate@gmail.com",
+    "password": "$2b$10$/ad66sHsyzXuJ/mhS4P6BuQ1DpcaGNSCeb4NpnGRxyc5EQw2PbnfS"
+  },
+  "4": {
+    "email": "example6@email.com",
+    "password": "$2b$10$PnTSMsoiVzmcBanRcQMJduBKm5jkA.1Ky5f8SnCQGjUbu7TLwOiRq"
+  }
+}
