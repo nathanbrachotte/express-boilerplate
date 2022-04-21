@@ -23,6 +23,6 @@ This boilerplate contains:
 
 ## TODO
 
-[] Unit test for specific middlewares
-[] Remove verbose lots when running tests
-[] Integrate swagger generation with [swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc) & [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
+* [] Unit test for specific middlewares
+* [] Remove verbose lots when running tests
+* [] Integrate swagger generation with [swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc) & [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
