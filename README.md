@@ -19,7 +19,7 @@ This boilerplate contains:
 - Pre-made HTTP test requests
 - A naive, DB-like system using fs & JSON (this implementation only exists for testing purposes, DO NOT do this in production and replace it immediately with the DB of your choosing).
 - env validation
-- a bunch of useful middlewares (helmet, hpp, morgan,
+- a bunch of useful middlewares (helmet, hpp, morgan)
 
 ## TODO
 
